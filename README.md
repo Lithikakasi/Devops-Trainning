@@ -1,2 +1,2 @@
-# Devops-Trainning
+# Devops-Training
 Test-Devops
